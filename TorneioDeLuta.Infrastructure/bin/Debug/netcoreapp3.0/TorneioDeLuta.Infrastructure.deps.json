@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "TorneioDeLuta.Infrastructure/1.0.0": {
+        "dependencies": {
+          "TorneioDeLuta.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TorneioDeLuta.Infrastructure.dll": {}
+        }
+      },
+      "TorneioDeLuta.Domain/1.0.0": {
+        "runtime": {
+          "TorneioDeLuta.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TorneioDeLuta.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TorneioDeLuta.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

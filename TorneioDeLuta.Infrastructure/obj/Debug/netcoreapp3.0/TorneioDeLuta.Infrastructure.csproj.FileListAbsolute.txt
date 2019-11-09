@@ -1,0 +1,33 @@
+C:\Users\thiag\source\repos\TorneioDeLuta\TorneioDeLuta.Infrastructure\bin\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.deps.json
+C:\Users\thiag\source\repos\TorneioDeLuta\TorneioDeLuta.Infrastructure\bin\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.dll
+C:\Users\thiag\source\repos\TorneioDeLuta\TorneioDeLuta.Infrastructure\bin\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.pdb
+C:\Users\thiag\source\repos\TorneioDeLuta\TorneioDeLuta.Infrastructure\bin\Debug\netcoreapp3.0\TorneioDeLuta.Domain.dll
+C:\Users\thiag\source\repos\TorneioDeLuta\TorneioDeLuta.Infrastructure\bin\Debug\netcoreapp3.0\TorneioDeLuta.Domain.pdb
+C:\Users\thiag\source\repos\TorneioDeLuta\TorneioDeLuta.Infrastructure\obj\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\TorneioDeLuta\TorneioDeLuta.Infrastructure\obj\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\TorneioDeLuta\TorneioDeLuta.Infrastructure\obj\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.AssemblyInfo.cs
+C:\Users\thiag\source\repos\TorneioDeLuta\TorneioDeLuta.Infrastructure\obj\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.csproj.CopyComplete
+C:\Users\thiag\source\repos\TorneioDeLuta\TorneioDeLuta.Infrastructure\obj\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.dll
+C:\Users\thiag\source\repos\TorneioDeLuta\TorneioDeLuta.Infrastructure\obj\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.pdb
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\TorneioDeLuta.Infrastructure\bin\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.deps.json
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\TorneioDeLuta.Infrastructure\bin\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.dll
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\TorneioDeLuta.Infrastructure\bin\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.pdb
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\TorneioDeLuta.Infrastructure\bin\Debug\netcoreapp3.0\TorneioDeLuta.Domain.dll
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\TorneioDeLuta.Infrastructure\bin\Debug\netcoreapp3.0\TorneioDeLuta.Domain.pdb
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\TorneioDeLuta.Infrastructure\obj\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\TorneioDeLuta.Infrastructure\obj\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\TorneioDeLuta.Infrastructure\obj\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.AssemblyInfo.cs
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\TorneioDeLuta.Infrastructure\obj\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.csproj.CopyComplete
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\TorneioDeLuta.Infrastructure\obj\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.dll
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\TorneioDeLuta.Infrastructure\obj\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.pdb
+C:\Users\thiag\source\repos\TorneioDeLuta\API\TorneioDeLuta.Infrastructure\bin\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.deps.json
+C:\Users\thiag\source\repos\TorneioDeLuta\API\TorneioDeLuta.Infrastructure\bin\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.dll
+C:\Users\thiag\source\repos\TorneioDeLuta\API\TorneioDeLuta.Infrastructure\bin\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.pdb
+C:\Users\thiag\source\repos\TorneioDeLuta\API\TorneioDeLuta.Infrastructure\bin\Debug\netcoreapp3.0\TorneioDeLuta.Domain.dll
+C:\Users\thiag\source\repos\TorneioDeLuta\API\TorneioDeLuta.Infrastructure\bin\Debug\netcoreapp3.0\TorneioDeLuta.Domain.pdb
+C:\Users\thiag\source\repos\TorneioDeLuta\API\TorneioDeLuta.Infrastructure\obj\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\TorneioDeLuta\API\TorneioDeLuta.Infrastructure\obj\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\TorneioDeLuta\API\TorneioDeLuta.Infrastructure\obj\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.AssemblyInfo.cs
+C:\Users\thiag\source\repos\TorneioDeLuta\API\TorneioDeLuta.Infrastructure\obj\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.csproj.CopyComplete
+C:\Users\thiag\source\repos\TorneioDeLuta\API\TorneioDeLuta.Infrastructure\obj\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.dll
+C:\Users\thiag\source\repos\TorneioDeLuta\API\TorneioDeLuta.Infrastructure\obj\Debug\netcoreapp3.0\TorneioDeLuta.Infrastructure.pdb

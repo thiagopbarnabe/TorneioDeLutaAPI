@@ -1,0 +1,23 @@
+C:\Users\thiag\source\repos\TorneioDeLuta\Dominio\bin\Debug\netcoreapp3.0\TorneioDeLuta.Domain.deps.json
+C:\Users\thiag\source\repos\TorneioDeLuta\Dominio\bin\Debug\netcoreapp3.0\TorneioDeLuta.Domain.dll
+C:\Users\thiag\source\repos\TorneioDeLuta\Dominio\bin\Debug\netcoreapp3.0\TorneioDeLuta.Domain.pdb
+C:\Users\thiag\source\repos\TorneioDeLuta\Dominio\obj\Debug\netcoreapp3.0\TorneioDeLuta.Domain.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\TorneioDeLuta\Dominio\obj\Debug\netcoreapp3.0\TorneioDeLuta.Domain.AssemblyInfo.cs
+C:\Users\thiag\source\repos\TorneioDeLuta\Dominio\obj\Debug\netcoreapp3.0\TorneioDeLuta.Domain.dll
+C:\Users\thiag\source\repos\TorneioDeLuta\Dominio\obj\Debug\netcoreapp3.0\TorneioDeLuta.Domain.pdb
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\Dominio\bin\Debug\netcoreapp3.0\TorneioDeLuta.Domain.deps.json
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\Dominio\bin\Debug\netcoreapp3.0\TorneioDeLuta.Domain.dll
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\Dominio\bin\Debug\netcoreapp3.0\TorneioDeLuta.Domain.pdb
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\Dominio\obj\Debug\netcoreapp3.0\TorneioDeLuta.Domain.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\Dominio\obj\Debug\netcoreapp3.0\TorneioDeLuta.Domain.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\Dominio\obj\Debug\netcoreapp3.0\TorneioDeLuta.Domain.AssemblyInfo.cs
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\Dominio\obj\Debug\netcoreapp3.0\TorneioDeLuta.Domain.dll
+C:\Users\thiag\source\repos\TorneioDeLuta\New folder\Dominio\obj\Debug\netcoreapp3.0\TorneioDeLuta.Domain.pdb
+C:\Users\thiag\source\repos\TorneioDeLuta\API\Dominio\bin\Debug\netcoreapp3.0\TorneioDeLuta.Domain.deps.json
+C:\Users\thiag\source\repos\TorneioDeLuta\API\Dominio\bin\Debug\netcoreapp3.0\TorneioDeLuta.Domain.dll
+C:\Users\thiag\source\repos\TorneioDeLuta\API\Dominio\bin\Debug\netcoreapp3.0\TorneioDeLuta.Domain.pdb
+C:\Users\thiag\source\repos\TorneioDeLuta\API\Dominio\obj\Debug\netcoreapp3.0\TorneioDeLuta.Domain.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\TorneioDeLuta\API\Dominio\obj\Debug\netcoreapp3.0\TorneioDeLuta.Domain.AssemblyInfoInputs.cache
+C:\Users\thiag\source\repos\TorneioDeLuta\API\Dominio\obj\Debug\netcoreapp3.0\TorneioDeLuta.Domain.AssemblyInfo.cs
+C:\Users\thiag\source\repos\TorneioDeLuta\API\Dominio\obj\Debug\netcoreapp3.0\TorneioDeLuta.Domain.dll
+C:\Users\thiag\source\repos\TorneioDeLuta\API\Dominio\obj\Debug\netcoreapp3.0\TorneioDeLuta.Domain.pdb
